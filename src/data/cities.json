@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "1738448100303",
+      "cityName": "Al Kharjah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-02-01T22:14:58.830Z",
+      "notes": "",
+      "position": {
+        "lat": "24.44714958973082",
+        "lng": "29.970703125000004"
+      }
+    },
+    {
+      "id": "1738448106451",
+      "cityName": "Kanel",
+      "country": "Senegal",
+      "emoji": "🇸🇳",
+      "date": "2025-02-01T22:15:04.948Z",
+      "notes": "",
+      "position": {
+        "lat": "15.029685756555674",
+        "lng": "-12.832031250000002"
+      }
+    },
+    {
+      "id": "1739743988412",
+      "cityName": "Peje",
+      "country": "Republic of Kosovo",
+      "emoji": "🇽🇰",
+      "date": "2025-02-16T22:12:56.841Z",
+      "notes": "",
+      "position": {
+        "lat": "42.68243539838623",
+        "lng": "20.126953125000004"
+      }
+    },
+    {
+      "id": "1752418030731",
+      "cityName": "Qarchak",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-07-13T14:47:08.441Z",
+      "notes": "",
+      "position": {
+        "lat": "35.42486791930558",
+        "lng": "51.54785156250001"
+      }
+    },
+    {
+      "id": "1752418794536",
+      "cityName": "Nur",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-07-13T14:59:51.819Z",
+      "notes": "",
+      "position": {
+        "lat": "36.421282443649496",
+        "lng": "51.94335937500001"
+      }
+    },
+    {
+      "id": "1752418802494",
+      "cityName": "Mashhad",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-07-13T15:00:00.331Z",
+      "notes": "",
+      "position": {
+        "lat": "36.40359962073253",
+        "lng": "59.58984375000001"
+      }
+    },
+    {
+      "id": "1752418815086",
+      "cityName": "Yazd",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-07-13T15:00:11.509Z",
+      "notes": " طرطرطزطر",
+      "position": {
+        "lat": "31.952162238024975",
+        "lng": "54.55810546875001"
+      }
+    },
+    {
+      "id": "1752418840719",
+      "cityName": "Semnan",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-07-13T15:00:33.005Z",
+      "notes": "",
+      "position": {
+        "lat": "35.59255224089235",
+        "lng": "53.36608886718751"
+      }
+    }
+  ]
+}
