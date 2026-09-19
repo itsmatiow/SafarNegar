@@ -14,6 +14,13 @@ SafarNegar helps users explore destinations, view them on an interactive map, an
 * Client-side routing
 * Responsive interface
 
+## 📸 Screenshots
+
+Here are some screenshots from the project, showcasing its interface and user experience.
+<img width="2456" height="1334" alt="safar 1" src="https://github.com/user-attachments/assets/61f6b24f-6db6-4d0c-9d36-8aa014b8c9fa" />
+<img width="2460" height="1332" alt="safar 2" src="https://github.com/user-attachments/assets/ba31cf3b-a3f3-445e-8ecc-026652b41d6f" />
+
+
 ## 🛠️ Tech Stack
 
 * React
